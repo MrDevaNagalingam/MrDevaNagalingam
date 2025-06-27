@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deva Nagalingam
+=======================================================================================================================================
 
-<!--
-**MrDevaNagalingam/MrDevaNagalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded System Engineer || Software Engineer
+---------------------------------------------
 
-Here are some ideas to get you started:
+I’m an Embedded Systems Engineer trainee passionate about building efficient, reliable, and real-time solutions that bridge hardware and software. I specialize in HAL library and embedded Linux development, with hands-on experience across a range of microcontrollers and SoCs, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ STM32 (F1/F4 series)
+
+✅ Rugged Board A5D2X (ARM Cortex-A5)
+
+✅ Rugged Board i.MX6UL (ARM Cortex-A7)
+
+With a strong foundation in C, C++, and embedded Linux, I’ve worked on system-level programming, device drivers, board bring-up, and application development. I also work with modern development workflows involving Yocto Project, FreeRTOS, Modbus, and UART/SPI/I2C protocols.
+
+* 🌍  I'm based in Coimbatore, Tamil Nadu
+* 🖥️  See my portfolio at [https://MrDevaNagalingam.github.io](http://MrDevaNagalingam.github.io)
+* ✉️  You can contact me at [ndeva2613@gmail.com](mailto:ndeva2613@gmail.com)
+* 🚀  I'm currently working on [Phytec Embedded Pvt. Ltd.](http://www.justdial.com/Bangalore/Phytec-Embedded-Pvt-Ltd-Oppt-to-Pet-School-Haralur-HSR-Layout/080PXX80-XX80-180620171712-H7G6_BZDET)
+* 🤝  I'm open to collaborating on Embedded product development , Industrial automation, IoT devices and cloud integration , Full-stack prototyping involving embedded + web
+* ⚡  I'm secretly Spider-Man 🕷️... but don’t tell anyone. Just know I can debug bugs really fast. 😉
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" title="Vim"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" title="Appwrite"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MrDevaNagalingam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/lucifer_the_moring_star_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/mrdevanagalingam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.threads.net/@DvN1237070" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a></p>
