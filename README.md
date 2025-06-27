@@ -6,7 +6,7 @@ Embedded System Engineer || Software Engineer
 
 I’m an Embedded Systems Engineer trainee passionate about building efficient, reliable, and real-time solutions that bridge hardware and software. I specialize in HAL library and embedded Linux development, with hands-on experience across a range of microcontrollers and SoCs, including:
 
-✅ STM32 (F1/F4 series)
+✅ STM32 (STM32F446RE)
 
 ✅ Rugged Board A5D2X (ARM Cortex-A5)
 
